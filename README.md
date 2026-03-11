@@ -1,4 +1,4 @@
-# To-do-list
+
 📝 Python To-Do List (CLI)
 
 A simple command-line To-Do List application built with Python that allows users to add, view, and delete tasks. Tasks are stored in a text file so they remain saved between program runs.
